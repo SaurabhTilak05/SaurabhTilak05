@@ -65,11 +65,11 @@ Pune, Maharashtra 411058, India
 
 ## 🔥 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/SaurabhTilak05)
 
 ## 🏆 Contribution Streak
 
-[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://github.com/your-github-username)
+[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://github.com/SaurabhTilak05)
 
 ## 🌟 Contributions
 
