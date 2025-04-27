@@ -1,18 +1,48 @@
-## Hi there 👋
 # Tilak Saurabh Ashok
 
-## Software Developer
+## Software Developer | Problem Solver | Open Source Enthusiast
 
-Motivated and skilled Software Developer with a passion for continuous improvement and creating practical solutions. Proficient in applying technical knowledge to solve challenges and develop innovative solutions. Committed to personal and professional growth with a vision to make a positive impact.
+Motivated and skilled Software Developer with a passion for continuous improvement and creating practical solutions. Proficient in applying technical knowledge to solve challenges and develop innovative solutions. Committed to personal and professional growth with a vision to make a positive impact on the tech community.
 
 ## 📍 Location
 
-Pune, Maharashtra 411058
+Pune, Maharashtra 411058, India
 
 ## 📧 Contact
 
 * **Email:** saurbhtilak6@gmail.com
-* **Phone:** 9765303776
+* **Phone:** +91 9765303776
+* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) (Add your LinkedIn profile URL)
+* [GitHub](https://github.com/your-github-profile) (Add your GitHub profile URL)
+
+## 🚀 Technical Skills
+
+### Programming Languages & Frameworks
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### Operating Systems
+
+[![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+### Developer Tools
+
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+
+### Course Skills
+
+* Database Management System
+* OOP Concepts
+* Data Structures
+* Machine Learning
 
 ## 🎓 Education
 
@@ -23,64 +53,35 @@ Pune, Maharashtra 411058
 * **Secondary Education (X)** (2018-2019) - 82.40%
     * Shri Nigmanand Vidyalay Nimgaon Mayamba, Beed, India
 
-## 🛠️ Skills
-
-**Programming Languages/Frameworks:**
-
-* JAVA
-* HTML
-* CSS
-* JavaScript
-* SQL
-* PLSQL
-* Git Hub
-* Git
-* Jira
-
-**Operating Systems:**
-
-* Windows
-* Linux
-
-**Developer Tools:**
-
-* VS Code
-* Eclipse IDE
-* IntelliJ IDEA
-
-**Course Skills:**
-
-* Database Management System
-* OOP Concepts
-* Data Structures
-
-
 ## 🏆 Certificates
 
 * Java FullStack Development - Giri's Tech Hub
 
-
 ## 🗣️ Languages
 
-* Marathi
-* Hindi
-* English
+* Marathi - Native
+* Hindi - Proficient
+* English - Proficient
+
+## 🔥 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+
+## 🏆 Contribution Streak
+
+[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://github.com/your-github-username)
+
+## 🌟 Contributions
+
+* Actively seeking opportunities to contribute to open-source projects.
+* Eager to collaborate with other developers and learn from the community.
+
+## 💼 Professional Goals
+
+* Continuously enhance my skills and knowledge in software development.
+* Apply my abilities to create innovative and impactful solutions.
+* Contribute to the growth of the tech industry.
 
 ---
 
-Thank you for visiting my GitHub profile!
-
-<!--
-**SaurabhTilak05/SaurabhTilak05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile! Let's connect and build something amazing together.
