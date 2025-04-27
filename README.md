@@ -12,7 +12,7 @@ Pune, Maharashtra 411058, India
 
 * **Email:** saurbhtilak6@gmail.com
 * **Phone:** +91 9765303776
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) (Add your LinkedIn profile URL)
+* [LinkedIn](https://www.linkedin.com/in/saurabh-tilak-502ab6350/) 
 * [GitHub](https://github.com/your-github-profile) (Add your GitHub profile URL)
 
 ## 🚀 Technical Skills
