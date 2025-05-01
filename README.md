@@ -69,8 +69,9 @@ Pune, Maharashtra 411058, India
 
 ## 🏆 Contribution Streak
 
-[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://github.com/SaurabhTilak05)
+## 🏆 Contribution Streak
 
+[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhTilak05&theme=radical)](https://github.com/SaurabhTilak05)
 ## 🌟 Contributions
 
 * Actively seeking opportunities to contribute to open-source projects.
