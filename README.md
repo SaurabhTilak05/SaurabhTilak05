@@ -1,11 +1,18 @@
-# Tilak Saurabh Ashok
+<div align="center">
+   
+# Hi 👋, I'm Tilak Saurabh
+<br>
 
 ## Software Developer | Problem Solver | Open Source Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70A8D&width=800&lines=Java+Full+Stack+Developer+%7C+DevOps+Enthusiast)](https://github.com/SaurabhTilak05)
 
-
-
+<center>
+  <a href="https://github.com/SaurabhTilak05">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70A8D&width=800&lines=Java+Full+Stack+Developer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+  </a>
+</center>
+</div>
+<br>
 Motivated and skilled Software Developer with a passion for continuous improvement and creating practical solutions. Proficient in applying technical knowledge to solve challenges and develop innovative solutions. Committed to personal and professional growth with a vision to make a positive impact on the tech community.
 
 ## 📍 Location
@@ -72,9 +79,20 @@ Pune, Maharashtra 411058, India
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/SaurabhTilak05)
 
 
-## 🏆 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaurabhTilak05&theme=radical&hide_border=false)](https://github.com/SaurabhTilak05)
+## 🏆 Contribution Streak & 📊 Top Languages
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=SaurabhTilak05&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTilak05&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🌟 Contributions
 
