@@ -2,6 +2,10 @@
 
 ## Software Developer | Problem Solver | Open Source Enthusiast
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70A8D&width=800&lines=Java+Full+Stack+Developer+%7C+DevOps+Enthusiast)](https://github.com/SaurabhTilak05)
+
+
+
 Motivated and skilled Software Developer with a passion for continuous improvement and creating practical solutions. Proficient in applying technical knowledge to solve challenges and develop innovative solutions. Committed to personal and professional growth with a vision to make a positive impact on the tech community.
 
 ## 📍 Location
