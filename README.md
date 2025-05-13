@@ -84,14 +84,23 @@ Pune, Maharashtra 411058, India
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=SaurabhTilak05&theme=radical&hide_border=false" alt="GitHub Streak" />
+      <a href="https://github.com/SaurabhTilak05">
+        <img 
+          src="https://github-readme-streak-stats.demolab.com?user=SaurabhTilak05&theme=radical&hide_border=false" 
+          alt="GitHub Streak"
+        />
+      </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTilak05&layout=compact&theme=radical" alt="Top Languages" />
+      <a href="https://github.com/SaurabhTilak05">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTilak05&layout=compact&theme=radical" 
+          alt="Top Languages"
+        />
+      </a>
     </td>
   </tr>
 </table>
-
 
 ## 🌟 Contributions
 
