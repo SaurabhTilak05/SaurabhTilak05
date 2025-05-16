@@ -57,10 +57,13 @@ Motivated and skilled Software Developer with a passion for continuous improveme
 
 #### 📘 Course Skills
 
-- Database Management System  
-- OOP Concepts  
-- Data Structures  
-- Machine Learning
+- CoreJava   
+- HTML
+- CSS 
+- JavaScript
+- SQL 
+- Git, GitHub
+
 
 ---
 
