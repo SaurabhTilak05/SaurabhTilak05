@@ -5,8 +5,10 @@
 ### Software Developer | Problem Solver | Open Source Enthusiast
 
 <a href="https://github.com/SaurabhTilak05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70A8D&width=800&lines=Java+Full+Stack+Developer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
-</a>
+ <p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&width=435&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;Loves+to+automate+everything" />
+
+  </p></a>
 
 </div>
 
