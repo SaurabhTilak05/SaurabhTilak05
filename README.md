@@ -66,8 +66,10 @@ Motivated and skilled Software Developer with a passion for continuous improveme
 - HTML
 - CSS 
 - JavaScript
-- SQL 
-- Git, GitHub
+- SQL
+- MySql
+- Git
+- GitHub
 
 
 ---
