@@ -96,7 +96,8 @@ Motivated and skilled Software Developer with a passion for continuous improveme
 - JavaScript
 - SQL
 - MySql
-- GitHub
+- NODE
+- ExpressJS
 
 
 ---
