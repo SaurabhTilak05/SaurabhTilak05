@@ -157,6 +157,14 @@ Passionate and results-driven Software Developer with strong skills in full stac
 
 ---
 
+<h2>📘 LeetCode Profile</h2>
+
+<a href="https://leetcode.com/u/Saurabh_Tilak/">
+  <img src="https://leetcard.jacoblin.cool/Saurabh_Tilak?theme=dark&font=Fira+Code&extension=heatmap" width="400"/>
+</a>
+
+---
+
 ## 🌟 Contributions & Goals
 
 - 🔄 Actively contributing to open-source projects  
