@@ -110,9 +110,11 @@ Passionate and results-driven Software Developer with strong skills in full stac
 ---
 
 ## 🎓 Education
+ 
+ 
 
-- 🎓 **Bachelor of Computer Science** - 8.13 cgpa 
-  Dr. Babasaheb Ambedkar University, Sambhajinagar (Beed)  
+  - 🎓 **Bachelor of Computer Science** - 8.13 CGPA  
+   Dr. Babasaheb Ambedkar University, Sambhajinagar (Beed)
 
 - 🏫 **HSC (12th Grade)** – 89.50%   
   Shri Nigmanand Vidyalay Nimgaon Mayamba  
