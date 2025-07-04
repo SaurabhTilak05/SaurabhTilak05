@@ -89,14 +89,29 @@ Passionate and results-driven Software Developer with strong skills in full stac
 [![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ---
+## 📂 Projects
 
-## 📂 Featured Projects
+### 📁 Department & Employee Management System  
+A full-stack CRUD web application to manage departments and their employees.  
+Built using **Node.js**, **Express.js**, **MySQL**, and **EJS** templating.
 
-- 🚀 **Student Management System** – Java CLI project using File Handling for CRUD operations.  
-- 💼 **Portfolio Website** – Static portfolio built with HTML5, CSS3, and JavaScript.  
-- 📊 **Expense Tracker** – Node.js + Express.js + MongoDB app to manage and visualize expenses.  
+**🧩 Features:**
+- ➕ Add, View, Update & Delete Employees  
+- 🏢 Department-wise employee categorization  
+- 🔍 Live search functionality using AJAX  
+- ✨ Clean UI with Bootstrap 4  
+- 💾 MySQL2 + Promises for safe DB access  
+- 📁 MVC Project Structure (Routes, Views, Controllers)
 
-➡️ [Explore all my projects](https://github.com/SaurabhTilak05?tab=repositories)
+**🛠 Tech Stack:**  
+`Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap 4`
+
+📎 **GitHub Repository:** [Department & Employee Management System](https://github.com/SaurabhTilak05/NodeJS/tree/master/EmplDeptMiniProject)
+
+> _“A clean, modular system to manage employees efficiently in any organization.”_
+
+---
+
 
 ---
 ## 📌 Tech Stack
