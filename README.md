@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 👋 Hi, I'm Tilak Saurabh  
 ### Software Developer | Java Full Stack | DevOps Enthusiast
 
@@ -37,6 +38,10 @@ Passionate and results-driven Software Developer with strong skills in full stac
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaurabhTilak05)
 
 </div>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=SaurabhTilak05&color=blueviolet)
 
 ---
 
@@ -199,4 +204,6 @@ Built using **Node.js**, **Express.js**, **MySQL**, and **EJS** templating.
 ### 🤝 Let’s connect, collaborate, and build something amazing together.
 
 </div>
+
+
 
