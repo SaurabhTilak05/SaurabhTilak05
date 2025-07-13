@@ -3,9 +3,12 @@
 # 👋 Hi, I'm Tilak Saurabh  
 ### Software Developer | Java Full Stack | DevOps Enthusiast
 
-<a href="https://github.com/SaurabhTilak05">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&width=435&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;Automation+Lover" />
-</a>
+<p align="center">
+  <a href="https://github.com/SaurabhTilak05">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Developer;Full+Stack+Learner;Problem+Solving+Mindset;Love+DSA+and+Coding" alt="Typing SVG" />
+  </a>
+</p>
+
 
 </div>
 
