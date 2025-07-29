@@ -130,7 +130,7 @@ A complete CRUD-based web application for managing products in an inventory syst
 **🛠 Tech Stack:**  
 `Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap 4` • `MVC`
 
-📎 **GitHub Repository:** [Product CRUD Application](https://github.com/SaurabhTilak05/NodeJS/tree/master/ProductCurd)
+📎 **GitHub Repository:** [Product CRUD Application](https://github.com/SaurabhTilak05/NodeJS/tree/master/ProductCrudApplication)
 
 > _“A lightweight and efficient solution to manage product inventory for small businesses or startups.”_
 
