@@ -117,6 +117,26 @@ Built using **Node.js**, **Express.js**, **MySQL**, and **EJS** templating.
 ---
 
 
+### 📁 Product CRUD Application  
+A complete CRUD-based web application for managing products in an inventory system.
+
+**🧩 Features:**
+- ➕ Add, View, Update & Delete Products  
+- 🔍 Product search by category
+- 🧾 Product detail view  
+- 🚦 Validation for stock and pricing  
+- 🧼 Clean UI with Bootstrap 4  
+
+**🛠 Tech Stack:**  
+`Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap 4` • `MVC`
+
+📎 **GitHub Repository:** [Product CRUD Application](https://github.com/SaurabhTilak05/NodeJS/tree/master/ProductCurd)
+
+> _“A lightweight and efficient solution to manage product inventory for small businesses or startups.”_
+
+
+
+
 ---
 ## 📌 Tech Stack
 
