@@ -116,28 +116,39 @@ Built using **Node.js**, **Express.js**, **MySQL**, and **EJS** templating.
 
 ---
 
+### 📁 Online Job Portal  
+A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin** for smooth hiring and recruitment management.  
 
-### 📁 Product CRUD Application  
-A complete CRUD-based web application for managing products in an inventory system.
+**🧩 Features by Role:**  
 
-**🧩 Features:**
-- ➕ Add, View, Update & Delete Products  
-- 🔍 Product search by category
-- 🧾 Product detail view  
-- 🚦 Validation for stock and pricing  
-- 🧼 Clean UI with Bootstrap 4  
+#### 👤 Job Seeker
+- Register, login, and manage profile (skills, resume, experience, etc.)  
+- Search and filter jobs by skills, location, experience, or package  
+- Apply for jobs and track application status  
+- Update or delete profile anytime  
+
+#### 🏢 HR (Recruiter)
+- Register & login as HR  
+- Post new job openings with details (title, company, location, package, skills, deadline, etc.)  
+- Edit, update, or delete job postings  
+- View applicants who applied for their jobs  
+- Shortlist or reject candidates  
+
+#### 🛡️ Admin
+- Manage users (HRs & Job Seekers)  
+- Monitor all job postings across the platform  
+- Approve or block HR accounts if needed  
+- Maintain overall system security and data integrity  
 
 **🛠 Tech Stack:**  
-`Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap 4` • `MVC`
+`Node.js` • `Express.js` • `MySQL` • `React` (frontend) • `Postman`  
 
-📎 **GitHub Repository:** [Product CRUD Application](https://github.com/SaurabhTilak05/NodeJS/tree/master/ProductCrudApplication)
+📎 **GitHub Repository:** [Online Job Portal](https://github.com/SaurabhTilak05/Online-Job-Portal)  
 
-> _“A lightweight and efficient solution to manage product inventory for small businesses or startups.”_
-
-
-
+> _“An efficient and modern platform for job seekers, recruiters, and administrators to connect seamlessly.”_
 
 ---
+
 ## 📌 Tech Stack
 
 - 👨‍💻 Languages: Java, JavaScript, SQL  
