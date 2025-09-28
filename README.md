@@ -128,7 +128,7 @@ A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin*
 - Update or delete profile anytime  
 
 #### 🏢 HR (Recruiter)
-- Register & login as HR  
+- login as HR  
 - Post new job openings with details (title, company, location, package, skills, deadline, etc.)  
 - Edit, update, or delete job postings  
 - View applicants who applied for their jobs  
