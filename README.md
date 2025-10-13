@@ -143,7 +143,7 @@ A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin*
 **🛠 Tech Stack:**  
 `Node.js` • `Express.js` • `MySQL` • `React` (frontend) • `Postman`  
 
-📎 **GitHub Repository:** [Online Job Portal](https://github.com/SaurabhTilak05/Online-Job-Portal)  
+📎 **GitHub Repository:** [Online Job Portal](https://github.com/SaurabhTilak05/OnlineJobPortalApplication)  
 
 > _“An efficient and modern platform for job seekers, recruiters, and administrators to connect seamlessly.”_
 
