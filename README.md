@@ -1,182 +1,167 @@
 <div align="center">
 
-
 # 👋 Hi, I'm Tilak Saurabh  
-### Software Developer | Java Full Stack | DevOps Enthusiast
+### Full Stack Developer | Java Backend | MERN | MCA (Pursuing)
 
-<p align="center">
-  <a href="https://github.com/SaurabhTilak05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Developer;Full+Stack+Learner;Problem+Solving+Mindset;Love+DSA+and+Coding" alt="Typing SVG" />
-  </a>
-</p>
+📍 Pune, Maharashtra, India  
 
-
-</div>
-
----
-
-### 💡 About Me
-
-Passionate and results-driven Software Developer with strong skills in full stack development and a mindset for automation. I thrive on solving real-world problems with efficient code and clean architecture. Always eager to learn and contribute to impactful projects, especially in open-source and team-oriented environments.
-
----
-
-### 📍 Location
-
-📌 Pune, Maharashtra, India
-
----
-
-### 📧 Contact
-
-- 📧 **Email:** saurbhtilak6@gmail.com  
-- 📞 **Phone:** +91 9765303776  
-
-<div >
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-tilak-502ab6350/)<br><br>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaurabhTilak05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://saurabhtilak05.github.io/PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-tilak-502ab6350/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SaurabhTilak05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge)](https://leetcode.com/u/Saurabh_Tilak/)
 
 </div>
 
 ---
 
-## 🧠 Programming Languages
+## 🚀 About Me
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+I am a **Full Stack Developer** with hands-on experience in **Java, Spring Boot, Node.js, React, and MySQL**.  
+I enjoy building **scalable web applications**, designing **RESTful APIs**, and working with **clean MVC architecture**.
 
----
-
-## 🌐 Frontend Technologies
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+Currently pursuing **MCA**, I am actively looking for opportunities in:
+- **Java Backend Development**
+- **MERN Stack Development**
+- **Full Stack Development**
 
 ---
 
-## 🛠 Backend & Server-side
+## 🧠 Technical Skills
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+### 👨‍💻 Programming Languages
+- Java  
+- JavaScript  
+- PHP  
+- SQL  
+
+### 🌐 Frontend
+- React.js  
+- HTML5, CSS3  
+- Bootstrap  
+- jQuery, AJAX  
+- Yii2  
+
+### 🛠 Backend
+- Spring Boot, Spring MVC  
+- Node.js, Express.js  
+- REST APIs  
+- JWT Authentication  
+
+### 💾 Databases
+- MySQL  
+
+### 🧪 Testing & Tools
+- Postman (API Testing)  
+- Git & GitHub  
+- VS Code, IntelliJ IDEA, STS  
+- MySQL Workbench  
+
+### 📚 Core CS
+- Data Structures & Algorithms  
+- OOP Concepts  
+- Operating Systems  
 
 ---
 
-## 🗃️ Databases
+## 💼 Experience
 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+### 👨‍💻 Jr. Software Developer (Intern / Project Trainee)  
+**Creazione Software, Pune**  
+📅 *May 2025 – Nov 2025*
 
----
-
-## 🔧 Developer Tools
-
-[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
----
-
-## 🔁 Version Control & Collaboration
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+- Worked on a real-time **Online Job Portal** project  
+- Developed **RESTful APIs** using Node.js, Express.js, and MySQL  
+- Implemented **JWT-based authentication** for Job Seeker, HR, and Admin  
+- Built responsive UI using **React.js, HTML, CSS, Bootstrap**  
+- Integrated **Nodemailer** for automated email notifications  
+- Collaborated using **Git/GitHub** and followed proper API workflows  
 
 ---
 
-## 💻 Operating Systems
+### 🧑‍🎓 Full Stack Development Trainee  
+**Giri’s Tech Hub Pvt. Ltd., Pune**  
+📅 *Aug 2024 – Apr 2025*
 
-[![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+- Completed **Java Full Stack Development Training**  
+- Worked with **Core Java, OOP, Spring Boot, REST APIs, MySQL**  
+- Developed backend services using **Spring Boot & JDBC**  
+- Created responsive frontend using **React.js & Bootstrap**  
+- Tested APIs using **Postman**  
+- Built multiple mini-projects and a complete full-stack application  
 
 ---
+
 ## 📂 Projects
 
-### 📁 Department & Employee Management System  
-A full-stack CRUD web application to manage departments and their employees.  
-Built using **Node.js**, **Express.js**, **MySQL**, and **EJS** templating.
+### 🔹 Online Job Portal – *Quick Start Career*
+🌐 **Live:** http://quickstartcareer.in/  
+📦 **Repo:** https://github.com/SaurabhTilak05/OnlineJobPortalApplication  
 
-**🧩 Features:**
-- ➕ Add, View, Update & Delete Employees  
-- 🏢 Department-wise employee categorization  
-- 🔍 Live search functionality using AJAX  
-- ✨ Clean UI with Bootstrap 4  
-- 💾 MySQL2 + Promises for safe DB access  
-- 📁 MVC Project Structure (Routes, Views, Controllers)
+**Tech Stack:**  
+`Node.js` `Express.js` `MySQL` `JWT` `React.js` `REST API` `Nodemailer`
 
-**🛠 Tech Stack:**  
-`Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap 4`
-
-📎 **GitHub Repository:** [Department & Employee Management System](https://github.com/SaurabhTilak05/NodeJS/tree/master/EmplDeptMiniProject)
-
-> _“A clean, modular system to manage employees efficiently in any organization.”_
+**Key Features:**
+- Role-based authentication (Job Seeker, HR, Admin)
+- Job posting, job search, and application tracking
+- Candidate shortlisting & rejection workflow
+- Automated email notifications
+- Optimized MySQL queries (40% reduction in manual handling)
 
 ---
 
-### 📁 Online Job Portal  
-A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin** for smooth hiring and recruitment management.  
+### 🔹 Employee Management System
+📦 **Repo:** https://github.com/SaurabhTilak05/spring_jdbc_simple_crud-_app
 
-**🧩 Features by Role:**  
+**Tech Stack:**  
+`Spring Boot` `Spring MVC` `MySQL` `JDBC` `REST API` `React.js`
 
-#### 👤 Job Seeker
-- Register, login, and manage profile (skills, resume, experience, etc.)  
-- Search and filter jobs by skills, location, experience, or package  
-- Apply for jobs and track application status  
-- Update or delete profile anytime  
-
-#### 🏢 HR (Recruiter)
-- login as HR  
-- Post new job openings with details (title, company, location, package, skills, deadline, etc.)  
-- Edit, update, or delete job postings  
-- View applicants who applied for their jobs  
-- Shortlist or reject candidates  
-
-#### 🛡️ Admin
-- Manage users (HRs & Job Seekers)  
-- Monitor all job postings across the platform  
-- Approve or block HR accounts if needed  
-- Maintain overall system security and data integrity  
-
-**🛠 Tech Stack:**  
-`Node.js` • `Express.js` • `MySQL` • `React` (frontend) • `Postman`  
-
-📎 **GitHub Repository:** [Online Job Portal](https://github.com/SaurabhTilak05/OnlineJobPortalApplication)  
-
-> _“An efficient and modern platform for job seekers, recruiters, and administrators to connect seamlessly.”_
+**Key Features:**
+- CRUD operations for employee management
+- MVC architecture with proper layer separation
+- RESTful APIs tested using Postman
+- Input validation and basic error handling
 
 ---
 
-## 📌 Tech Stack
+### 🔹 Car Racing Pro – React Game
+🌐 **Live:** https://saurabhtilak05.github.io/carracingreact/  
+📦 **Repository:** https://github.com/SaurabhTilak05/carracingreact  
 
-- 👨‍💻 Languages: Java, JavaScript, SQL  
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 🛠 Backend: Node.js, Express.js  
-- 💾 Database: MySQL  
-- 🧰 Tools: VSCode, IntelliJ, Postman, Git, GitHub  
+**Tech Stack:**  
+`React.js` • `JavaScript` • `HTML5 Canvas` • `CSS`
+
+**Project Overview:**  
+Car Racing Pro is a high-performance, browser-based racing game built using **React.js** and **HTML5 Canvas**, designed to deliver smooth gameplay and a responsive user experience across both desktop and mobile devices.
+
+**Key Technical Highlights:**
+- 🎮 **Custom Game Engine:** Built a performant game loop using `requestAnimationFrame` for smooth, real-time rendering  
+- 📱 **Responsive Design:** Implemented dynamic canvas scaling to support both desktop and mobile screens  
+- 👆 **Touch & Keyboard Controls:** Added swipe gestures for mobile gameplay along with keyboard controls for desktop  
+- 🔊 **Immersive Audio System:** Integrated a custom audio manager for engine sounds and in-game effects  
+- ⚡ **Performance Optimization:** Balanced React state management with the high-frequency updates required for real-time gameplay  
+- 💥 **Game Logic:** Implemented collision detection, obstacle generation, scoring system, and game-over handling  
+
+> _A real-time React game showcasing advanced frontend concepts, performance optimization, and interactive UI development._
+
 
 ---
 
 ## 🎓 Education
- 
- 
 
-  - 🎓 **Bachelor of Computer Science** - 8.30 CGPA  
-   Dr. Babasaheb Ambedkar University, Sambhajinagar (Beed)
+### 🎓 MCA (Pursuing)  
+**Savitribai Phule Pune University**  
+📅 *2025 – 2027*
 
-- 🏫 **HSC (12th Grade)** – 89.50%   
-  Shri Nigmanand Vidyalay Nimgaon Mayamba  
-
-- 🏫 **SSC (10th Grade)** – 82.40%  
-  Shri Nigmanand Vidyalay Nimgaon Mayamba
+### 🎓 Bachelor of Computer Science (BCS)  
+**Dr. Babasaheb Ambedkar Marathwada University**  
+📊 *CGPA: 8.30*  
+📅 *July 2022 – May 2025*
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certification
 
-- ✅ Java Full Stack Development – Giri's Tech Hub
+- ✅ **Full Stack Java Development** – Giri’s Tech Hub, Pune  
 
 ---
 
@@ -184,7 +169,7 @@ A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin*
 
 - Marathi – Native  
 - Hindi – Proficient  
-- English – Proficient
+- English – Proficient  
 
 ---
 
@@ -192,45 +177,28 @@ A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SaurabhTilak05&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhTilak05&show_icons=true&theme=radical)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SaurabhTilak05&theme=radical&hide_border=false&border_radius=10" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTilak05&layout=compact&theme=radical&border_radius=10&hide_border=false" height="200"/>
-    </td>
-  </tr>
-</table>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhTilak05&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTilak05&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-<h2>📘 LeetCode Profile</h2>
+## 🎯 Career Goals
 
-<a href="https://leetcode.com/u/Saurabh_Tilak/">
-  <img src="https://leetcard.jacoblin.cool/Saurabh_Tilak?theme=dark&font=Fira+Code&extension=heatmap" width="400"/>
-</a>
-
----
-
-## 🌟 Contributions & Goals
-
-- 🔄 Actively contributing to open-source projects  
-- 👥 Open to collaborations and networking  
-- 🎯 Committed to continuous learning and tech innovation  
+- Build scalable backend systems using **Java & Spring Boot**
+- Grow as a **Full Stack Developer**
+- Contribute to **open-source projects**
+- Strengthen **DSA & system design skills**
 
 ---
 
 <div align="center">
 
-### 🙏 Thank you for visiting my profile!  
-### 🤝 Let’s connect, collaborate, and build something amazing together.
+### 🤝 Let’s Connect & Build Something Impactful  
+📧 **Email:** saurbhtilak6@gmail.com | 📞 **Phone:** +91 9765303776
 
 </div>
-
-
-
