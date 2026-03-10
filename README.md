@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Tilak Saurabh  
-### Full Stack Developer | Java Backend | MERN | MCA (Pursuing)
+# 👋 Hi, I'm Saurabh Tilak
+### Full Stack Developer | Java | Spring Boot | MERN Stack
 
 📍 Pune, Maharashtra, India  
 
@@ -14,158 +14,163 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 Objective
 
-I am a **Full Stack Developer** with hands-on experience in **Java, Spring Boot, Node.js, React, and MySQL**.  
-I enjoy building **scalable web applications**, designing **RESTful APIs**, and working with **clean MVC architecture**.
+Full-Stack Developer skilled in **Java, JavaScript, Node.js, React.js, and SQL** with hands-on experience building scalable web applications, APIs, and database-driven systems.  
 
-Currently pursuing **MCA**, I am actively looking for opportunities in:
-- **Java Backend Development**
-- **MERN Stack Development**
-- **Full Stack Development**
+Strong knowledge of **OOP, Data Structures, REST API development, and MVC architecture** with practical experience in **SDLC, debugging, and API testing**.  
+
+Seeking a **Software Developer / Full Stack Developer role** to apply technical expertise and contribute to innovative projects.
 
 ---
 
-## 🧠 Technical Skills
+# 🧠 Technical Skills
 
 ### 👨‍💻 Programming Languages
 - Java  
 - JavaScript  
-- PHP  
 - SQL  
 
 ### 🌐 Frontend
 - React.js  
-- HTML5, CSS3  
+- HTML5  
+- CSS3  
 - Bootstrap  
-- jQuery, AJAX  
+- jQuery  
+- AJAX  
 - Yii2  
 
 ### 🛠 Backend
-- Spring Boot, Spring MVC  
-- Node.js, Express.js  
-- REST APIs  
+- Node.js  
+- Express.js  
+- Spring  
+- Spring Boot  
+- REST API Development  
 - JWT Authentication  
+- MVC Architecture  
 
 ### 💾 Databases
 - MySQL  
 
-### 🧪 Testing & Tools
-- Postman (API Testing)  
-- Git & GitHub  
-- VS Code, IntelliJ IDEA, STS  
-- MySQL Workbench  
-
 ### 📚 Core CS
-- Data Structures & Algorithms  
-- OOP Concepts  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
 - Operating Systems  
 
+### 🧪 Testing
+- API Testing using Postman  
+- Debugging  
+
+### ⚙️ Tools / Platforms
+- VS Code  
+- Eclipse IDE  
+- Spring Tool Suite (STS)  
+- Git & GitHub  
+- SVN  
+- MySQL Workbench  
+- Postman  
+
+### 🤖 AI Tools
+- Cursor AI  
+- Antigravity  
+- GitHub Copilot  
+- ChatGPT  
+
+Used for **code generation, debugging, refactoring, and accelerating full-stack development workflows**.
+
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 👨‍💻 Jr. Software Developer (Intern / Project Trainee)  
+## 👨‍💻 Java Full Stack Intern  
 **Creazione Software, Pune**  
-📅 *May 2025 – Nov 2025*
+📅 May 2025 – Nov 2025  
 
-- Worked on a real-time **Online Job Portal** project  
-- Developed **RESTful APIs** using Node.js, Express.js, and MySQL  
-- Implemented **JWT-based authentication** for Job Seeker, HR, and Admin  
-- Built responsive UI using **React.js, HTML, CSS, Bootstrap**  
-- Integrated **Nodemailer** for automated email notifications  
-- Collaborated using **Git/GitHub** and followed proper API workflows  
+- Developed and maintained web applications using **Spring Boot and React.js**
+- Implemented **RESTful APIs with MySQL integration** for scalable backend operations
+- Collaborated with development teams using **GitHub and Postman**
+- Followed **Agile development practices** for efficient project delivery
 
 ---
 
-### 🧑‍🎓 Full Stack Development Trainee  
+## 🧑‍🎓 Full Stack Development Trainee  
 **Giri’s Tech Hub Pvt. Ltd., Pune**  
-📅 *Aug 2024 – Apr 2025*
+📅 Aug 2024 – May 2025  
 
-- Completed **Java Full Stack Development Training**  
-- Worked with **Core Java, OOP, Spring Boot, REST APIs, MySQL**  
-- Developed backend services using **Spring Boot & JDBC**  
-- Created responsive frontend using **React.js & Bootstrap**  
-- Tested APIs using **Postman**  
-- Built multiple mini-projects and a complete full-stack application  
+- Completed comprehensive training in **Java Full Stack Development**
+- Worked with **Core Java, OOP, Collections, Multithreading, and File I/O**
+- Built full-stack applications using **Spring Boot, Node.js, and MySQL**
+- Implemented **custom sorting using Comparator**
+- Gained hands-on experience with **React.js, HTML, CSS, JavaScript, and Git**
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-### 🔹 Online Job Portal – *Quick Start Career*
-🌐 **Live:** http://quickstartcareer.in/  
-📦 **Repo:** https://github.com/SaurabhTilak05/OnlineJobPortalApplication  
+## 🔹 Online Job Portal – Quick Start Career
+
+🌐 Live: http://quickstartcareer.in/  
+📦 Repo: https://github.com/SaurabhTilak05/OnlineJobPortalApplication  
 
 **Tech Stack:**  
-`Node.js` `Express.js` `MySQL` `JWT` `React.js` `REST API` `Nodemailer`
+Node.js • Express.js • MySQL • JWT • React.js • REST API • Nodemailer
 
-**Key Features:**
-- Role-based authentication (Job Seeker, HR, Admin)
-- Job posting, job search, and application tracking
-- Candidate shortlisting & rejection workflow
-- Automated email notifications
-- Optimized MySQL queries (40% reduction in manual handling)
+**Features**
+
+- Secure **JWT authentication** for Job Seekers, HR, and Admin
+- Job posting and application tracking system
+- Profile management for job seekers
+- Automated **email notifications using Nodemailer**
+- Optimized MySQL queries improving data handling by **40%**
+- Real-time application tracking for better user experience
 
 ---
 
-### 🔹 Employee Management System
-📦 **Repo:** https://github.com/SaurabhTilak05/spring_jdbc_simple_crud-_app
+## 🔹 Employee Management System
+
+📦 Repo:  
+https://github.com/SaurabhTilak05/spring_jdbc_simple_crud-_app
 
 **Tech Stack:**  
-`Spring Boot` `Spring MVC` `MySQL` `JDBC` `REST API` `React.js`
+Spring Boot • Spring MVC • MySQL • JDBC • REST API • React.js • Postman
 
-**Key Features:**
-- CRUD operations for employee management
-- MVC architecture with proper layer separation
-- RESTful APIs tested using Postman
-- Input validation and basic error handling
+**Features**
 
----
-
-### 🔹 Car Racing Pro – React Game
-🌐 **Live:** https://saurabhtilak05.github.io/carracingreact/  
-📦 **Repository:** https://github.com/SaurabhTilak05/carracingreact  
-
-**Tech Stack:**  
-`React.js` • `JavaScript` • `HTML5 Canvas` • `CSS`
-
-**Project Overview:**  
-Car Racing Pro is a high-performance, browser-based racing game built using **React.js** and **HTML5 Canvas**, designed to deliver smooth gameplay and a responsive user experience across both desktop and mobile devices.
-
-**Key Technical Highlights:**
-- 🎮 **Custom Game Engine:** Built a performant game loop using `requestAnimationFrame` for smooth, real-time rendering  
-- 📱 **Responsive Design:** Implemented dynamic canvas scaling to support both desktop and mobile screens  
-- 👆 **Touch & Keyboard Controls:** Added swipe gestures for mobile gameplay along with keyboard controls for desktop  
-- 🔊 **Immersive Audio System:** Integrated a custom audio manager for engine sounds and in-game effects  
-- ⚡ **Performance Optimization:** Balanced React state management with the high-frequency updates required for real-time gameplay  
-- 💥 **Game Logic:** Implemented collision detection, obstacle generation, scoring system, and game-over handling  
-
-> _A real-time React game showcasing advanced frontend concepts, performance optimization, and interactive UI development._
-
+- CRUD application for managing employee records
+- Backend APIs built with **Spring Boot**
+- MySQL database integration using **JDBC**
+- MVC architecture for structured application design
+- API testing and debugging using **Postman**
 
 ---
 
-## 🎓 Education
-
-### 🎓 MCA (Pursuing)  
-**Savitribai Phule Pune University**  
-📅 *2025 – 2027*
+# 🎓 Education
 
 ### 🎓 Bachelor of Computer Science (BCS)  
-**Dr. Babasaheb Ambedkar Marathwada University**  
-📊 *CGPA: 8.30*  
-📅 *July 2022 – May 2025*
+**Dr. Babasaheb Ambedkar Marathwada University**
+
+📊 CGPA: **8.30**  
+📅 July 2022 – May 2025
 
 ---
 
-## 🏆 Certification
+# 🏆 Certification
 
-- ✅ **Full Stack Java Development** – Giri’s Tech Hub, Pune  
+✅ **Full Stack Java Development**  
+Giri’s Tech Hub Pvt. Ltd., Pune (2025)
+
+Covered:
+
+- Java  
+- Spring Boot  
+- REST API Development  
+- React.js  
+- SQL  
+- Git/GitHub  
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
 - Marathi – Native  
 - Hindi – Proficient  
@@ -173,7 +178,7 @@ Car Racing Pro is a high-performance, browser-based racing game built using **Re
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -187,18 +192,15 @@ Car Racing Pro is a high-performance, browser-based racing game built using **Re
 
 ---
 
-## 🎯 Career Goals
+# 🤝 Let's Connect
 
-- Build scalable backend systems using **Java & Spring Boot**
-- Grow as a **Full Stack Developer**
-- Contribute to **open-source projects**
-- Strengthen **DSA & system design skills**
+📧 Email: **saurbhtilak6@gmail.com**  
+📞 Phone: **+91 9765303776**
 
----
+💼 LinkedIn:  
+https://www.linkedin.com/in/saurabh-tilak-502ab6350/
 
-<div align="center">
-
-### 🤝 Let’s Connect & Build Something Impactful  
-📧 **Email:** saurbhtilak6@gmail.com | 📞 **Phone:** +91 9765303776
+🌐 Portfolio:  
+https://saurabhtilak05.github.io/PORTFOLIO/
 
 </div>
